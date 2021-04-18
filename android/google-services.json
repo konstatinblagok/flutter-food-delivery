@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "184721863866",
+    "firebase_url": "https://buymenow-9171a.firebaseio.com",
+    "project_id": "buymenow-9171a",
+    "storage_bucket": "buymenow-9171a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184721863866:android:5968401440eaf787b77e83",
+        "android_client_info": {
+          "package_name": "com.buymenow.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184721863866-ie07nrco33rb6jjkp2766esa0dnfa7jf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5OQU5Rcn4wJq7F6aECAWc--VgAiU0o3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184721863866-ie07nrco33rb6jjkp2766esa0dnfa7jf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "184721863866-9etum6si0c1dta10acku9es98s8rng87.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.buymenow.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184721863866:android:0277f64603c797feb77e83",
+        "android_client_info": {
+          "package_name": "corona.com.buymenow.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184721863866-ie07nrco33rb6jjkp2766esa0dnfa7jf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5OQU5Rcn4wJq7F6aECAWc--VgAiU0o3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184721863866-ie07nrco33rb6jjkp2766esa0dnfa7jf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "184721863866-9etum6si0c1dta10acku9es98s8rng87.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.buymenow.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
